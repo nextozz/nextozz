@@ -1,4 +1,4 @@
-Ой<div align="center">
+<div align="center">
 
 ### Hey, I'm next0zz 👋 
 
