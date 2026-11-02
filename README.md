@@ -1,4 +1,4 @@
-<div align="center">
+Ой<div align="center">
 
 ### Hey, I'm next0zz 👋 
 
@@ -15,22 +15,22 @@
 
 ---
 
-**Work in:**
+<div align="center">
+
+### ------- Work in: -------
 
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
 [![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
+</div>
+
 ---
 
-**Contacts:**
+<div align="center">
 
-<table>
-  <tr>
-    <td align="left">
-      <a href="https://t.me/"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
-    </td>
-    <td align="right">
-      <a href="https://discord.com/"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
-    </td>
-  </tr>
-</table>
+### ------- Contacts: -------
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
+
+</div>
