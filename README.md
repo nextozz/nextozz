@@ -1,6 +1,6 @@
 <div align="center">
 
-### Hi there, I'm next0zz 👋 
+### Hey, I'm next0zz 👋 
 
 
 [![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)](https://en.wikipedia.org/wiki/C_(programming_language))
@@ -12,17 +12,9 @@
 [![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)](https://gradle.org/)
 [![Maven](https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)](https://maven.apache.org/)
 
-<br>
-
-- **Currently:** building something cool
-- **Learning:** diving into GitHub docs
-- **Ask me about:** GitHub
-
-<br>
-
 ---
 
-### 📫  Connect with me:
+### 📫  Contact:
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/godlyears)
 
